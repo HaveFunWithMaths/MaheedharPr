@@ -1,0 +1,16 @@
+{
+  "name": "maheedhar-prabhu-birthday",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Happy Krishna Conscious Birthday Website for Sriman Maheedhar Prabhu",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "krishna",
+    "birthday",
+    "gaur-nitai-home",
+    "vaishnava"
+  ],
+  "author": "Gopalkrishna"
+}
